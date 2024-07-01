@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "garbage.h": "c",
+        "system_error": "c",
+        "wiringserial.h": "c",
+        "errno.h": "c",
+        "inet.h": "c",
+        "socket.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
